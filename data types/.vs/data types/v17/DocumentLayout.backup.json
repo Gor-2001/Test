@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Repos\\data types\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Repos\\Test\\data types\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{982CB01F-16A4-414B-8BBB-1475825345B8}|data types.vcxproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Repos\\Test\\data types\\test_data_types.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{982CB01F-16A4-414B-8BBB-1475825345B8}|data types.vcxproj|solutionrelative:test_data_types.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test_data_types.c",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Repos\\Test\\data types\\test_data_types.c",
+              "RelativeDocumentMoniker": "test_data_types.c",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Repos\\Test\\data types\\test_data_types.c",
+              "RelativeToolTip": "test_data_types.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-05T07:04:27.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
