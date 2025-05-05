@@ -2,8 +2,8 @@
 
 int main()
 {
-    printf("HelloWorld!\n");
     queueTest();
     stackTest();
+    treeTest();
     return 0;
 }

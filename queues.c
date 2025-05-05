@@ -70,6 +70,7 @@ void displayQueue(Queue* queue)
 
 void queueTest()
 {
+	printf("Testing the queues\n");
 	struct Queue q;
 	initializeQueue(&q);
 

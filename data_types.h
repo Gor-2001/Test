@@ -42,3 +42,7 @@ typedef struct TreeNode
 	struct TreeNode* left;
 	struct TreeNode* right;
 } TreeNode;
+
+TreeNode*	creatNewTreeNode(int data);
+void		insertTree(TreeNode** root, int data);
+void		treeTest();

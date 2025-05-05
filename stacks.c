@@ -64,6 +64,7 @@ int peek(Stack* stack)
 
 void	stackTest()
 {
+    printf("Testing the stacks\n");
     Stack stack;
     initializeStack(&stack);
 
