@@ -3,7 +3,10 @@
 int main()
 {
     queueTest();
+    printf("\n");
     stackTest();
+    printf("\n");
     treeTest();
+    printf("\n");
     return 0;
 }
